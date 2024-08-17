@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+=======
+hi how 
+dsdfsd
+fewfwfw
+>>>>>>> c2f93b1b3dcbac70d943ebc84a4881035bfbd6c8
 asdf
